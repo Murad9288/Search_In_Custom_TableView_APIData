@@ -1,6 +1,7 @@
-<div align = "center">
-# Search_In_Custom_TableView_APIData
 
+# <p align = "center"> Search_In_Custom_TableView_APIData </p>
+
+<div align = "center">
 
 ![](https://img.shields.io/badge/Build-passing-success.svg?style=flat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Platform-iOS-ff69b4.svg?style=flat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
