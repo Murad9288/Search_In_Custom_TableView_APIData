@@ -9,14 +9,14 @@
 <br/>
 
 ## Example Photo ->:
-|1|2|3|4|
+|Image-1|Image-2|Image-3|Image-4|
 |---|---|---|---|
 |<img src= './Image sample/1.png' width='220px'>|<img src='./Image sample/2.png' width='220px'>|<img src= './Image sample/3.png' width='220px'>|<img src= './Image sample/4.png' width='220px'>
 
 <br/>
 
 ## Example Gif Photo ->:
-|1|2|3|4|
-|---|---|---|---|
+|Gif|
+|---|
 |<img src= './Image sample/vv.gif' width='400px'>|
 
