@@ -8,6 +8,8 @@
 
 <br/>
 
+<div align = "center">
+  
 ## Example Photo ->:
 |Image-1|Image-2|Image-3|Image-4|
 |---|---|---|---|
@@ -20,3 +22,4 @@
 |---|
 |<img src= './Image sample/vv.gif' width='400px'>|
 
+</div>
