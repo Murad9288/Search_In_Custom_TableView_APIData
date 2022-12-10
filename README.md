@@ -1,3 +1,4 @@
+<div align = "center">
 # Search_In_Custom_TableView_APIData
 
 
@@ -8,7 +9,7 @@
 
 <br/>
 
-<div align = "center">
+
   
 ## Example Photo ->:
 |Image-1|Image-2|Image-3|Image-4|
