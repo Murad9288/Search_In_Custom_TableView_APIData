@@ -22,6 +22,6 @@
 ## Example Gif Photo ->:
 |Gif|
 |---|
-|<img src= './Image sample/vv.gif' width='300px'>|
+|<img src= './Image sample/vv.gif' width='300px' height='240px'>|
 
 </div>
